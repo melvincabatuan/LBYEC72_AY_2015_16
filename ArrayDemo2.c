@@ -41,7 +41,7 @@ int main(){
   }
 
 
-  multiplyByConstant(matrix, 2);
+  multiplyByConstant(matrix, 5);
   
   
   puts("");
