@@ -1,3 +1,12 @@
+/************************************************/
+
+//   Author: Melvin Cabatuan
+//   Date modified: September 15, 2015
+//   Description: A simple array refresher for LBYEC72
+
+/************************************************/
+
+
 #include <stdio.h>
 #include <stdlib.h>
 
