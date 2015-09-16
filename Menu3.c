@@ -1,3 +1,9 @@
+/***********************************************/
+// Author: Melvin Cabatuan
+// Date modified: September 16, 2015
+// Description:   Menu using while loop demo
+/**********************************************/
+
 #include<stdio.h>
 #include<stdlib.h>
 
@@ -11,7 +17,6 @@ main()
 {
     char selection;    
         
-    // Menu Infinite Loop: Terminator at line 99
     while(1){
        printf("\n Main Menu");
        printf("\n================");

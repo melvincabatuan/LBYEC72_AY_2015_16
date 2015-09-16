@@ -1,3 +1,9 @@
+/***********************************************/
+// Author: Melvin Cabatuan
+// Date modified: September 16, 2015
+// Description: Array input demo and mean computation
+/**********************************************/
+
 #include <stdio.h>
 #include <stdlib.h>
 

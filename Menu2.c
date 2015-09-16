@@ -1,3 +1,9 @@
+/***********************************************/
+// Author: Melvin Cabatuan
+// Date modified: September 16, 2015
+// Description: Basic menu program demo
+/**********************************************/
+
 #include<stdio.h>
 #include<stdlib.h>
 

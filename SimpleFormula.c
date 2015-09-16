@@ -1,6 +1,8 @@
 /*============================================================*/
-//
-//              A Simple Menu Program in C         
+// 
+//   Author: Melvin Cabatuan
+//   Date Modified: September 16, 2015
+//   Description:   A Simple Menu Program in C         
 //
 /*============================================================*/
 #include <stdio.h>

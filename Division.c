@@ -1,3 +1,9 @@
+/***********************************************/
+// Author: Melvin Cabatuan
+// Date modified: September 16, 2015
+// Description: Simple switch refresher
+/**********************************************/
+
 #include <stdio.h>
 #include <stdlib.h>
 

@@ -1,3 +1,10 @@
+/***********************************************/
+// Author: 
+// Date modified: September 16, 2015
+// Description:  Hello World program + gdb demo! 
+/**********************************************/
+
+
 #include <stdio.h>
 #include <stdlib.h>
 

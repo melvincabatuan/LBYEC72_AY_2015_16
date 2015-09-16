@@ -1,3 +1,11 @@
+/*============================================================*/
+//
+//    Author: Melvin Cabatuan
+//    Date Modified: September 16, 2015
+//    Brief Description: A Simple summation demo in C         
+//
+/*============================================================*/
+
 #include <stdio.h>
 #include <stdlib.h>
 
