@@ -1,9 +1,8 @@
-/****************************************/
+/***********************************************/
 // Author: Melvin Cabatuan
 // Date modified: September 16, 2015
 // Description: One dimensional array refresher
-/***************************************/
-
+/**********************************************/
 
 #include <stdio.h>
 #include <stdlib.h>
