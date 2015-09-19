@@ -95,15 +95,14 @@ bool isMultValid(int cols1, int rows2){
 
 // Multiply two matrices;   // cols1 =  rows2 = rowcol
 void multiplyMatrix(double first[][MAX_COLS], double second[][MAX_COLS], double result[][MAX_COLS], int rows1, int cols2, int rowcol){
-  int sum;
+
   int i, j, k;
   for(i = 0; i < rows1; ++i){
     for(j = 0; j < cols2; ++j){
-      sum = 0;
+      result[i][j] = 0;
       for(k = 0; k < rowcol; ++k){
-        sum = sum + first[i][k]*second[k][j];
+        result[i][j] = result[i][j] + first[i][k]*second[k][j];
       }
-      result[i][j] = sum;
     }
   }
 }
