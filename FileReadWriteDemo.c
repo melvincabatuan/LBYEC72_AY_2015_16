@@ -1,3 +1,10 @@
+/***********************************************/
+// Author: Melvin Cabatuan
+// Date modified: September 29, 2015
+// Description: Simple FILE read/write demo
+/**********************************************/
+
+
 #include <stdio.h>
 #include <stdlib.h>
 
